@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/191prajjwal/Food_Delivery_App.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/191prajjwal/Food_Delivery_App_Server.git
